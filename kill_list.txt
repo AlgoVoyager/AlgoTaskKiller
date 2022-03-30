@@ -1,0 +1,8 @@
+Nox.exe
+screenrec.exe
+Telegram.exe
+Yourphone.exe
+chrome.exe
+Calculator.exe
+code.exe
+mspaint.exe
